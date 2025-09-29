@@ -74,5 +74,5 @@ La fase de **pruebas de software** tiene como propósito validar y verificar que
 
 ---
 
-Creado por: **[Tu Nombre]**  
+Creado por: monica alexandra urrea  
 Fase: **Pruebas de Software - Proyecto Formación SENA**
